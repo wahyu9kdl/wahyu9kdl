@@ -1,0 +1,19 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<opml version="1.0">
+<head>
+<title>Aw Group subscriptions in feedly Cloud</title>
+</head>
+<body>
+<outline text="Aw Feed ( Group )" title="Aw Feed ( Group )">
+<outline type="rss" text="AW sos ( COMMUNITY ) - Atom" title="AW sos ( COMMUNITY ) - Atom" xmlUrl="https://www.blogger.com/feeds/3204175191033521134/posts/default" htmlUrl="http://awsos.blogspot.com/"/>
+<outline type="rss" text="AL HIKMAH" title="AL HIKMAH" xmlUrl="http://feeds.feedburner.com/blogspot/vrKPF" htmlUrl="https://kata-h.blogspot.com/"/>
+</outline>
+<outline text="Must Read" title="Must Read">
+<outline type="rss" text="AW sos ( COMMUNITY ) - Atom" title="AW sos ( COMMUNITY ) - Atom" xmlUrl="https://www.blogger.com/feeds/3204175191033521134/posts/default" htmlUrl="http://awsos.blogspot.com/"/>
+<outline type="rss" text="AL HIKMAH" title="AL HIKMAH" xmlUrl="http://feeds.feedburner.com/blogspot/vrKPF" htmlUrl="https://kata-h.blogspot.com/"/>
+</outline>
+<outline text="AL HIKMAH" title="AL HIKMAH">
+<outline type="rss" text="AL HIKMAH" title="AL HIKMAH" xmlUrl="http://feeds.feedburner.com/blogspot/vrKPF" htmlUrl="https://kata-h.blogspot.com/"/>
+</outline>
+</body>
+</opml>
