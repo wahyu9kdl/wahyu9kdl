@@ -29,6 +29,11 @@ Aw Browser
 
 https://cse.google.co.id/cse?cx=4a26c594511b8cd0c#gsc.tab=0
 
+
+Donasi Dan Pembayaran Order Project
+Transfer uangnya pakai DANA aja. Lebih praktis, transfer di sini ya 
+https://link.dana.id/qr/3854e4rk
+
 <script type="text/javascript">
 
 
