@@ -34,6 +34,8 @@ Donasi Dan Pembayaran Order Project
 Transfer uangnya pakai DANA aja. Lebih praktis, transfer di sini ya 
 https://link.dana.id/qr/3854e4rk
 
+Donasi via PayPal PayPal.me https://paypal.me/wahyudi9kdl?locale.x=id_ID
+
 <script type="text/javascript">
 
 
