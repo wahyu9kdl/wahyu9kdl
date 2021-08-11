@@ -36,34 +36,6 @@ https://link.dana.id/qr/3854e4rk
 
 Donasi via PayPal PayPal.me https://paypal.me/wahyudi9kdl?locale.x=id_ID
 
-<script type="text/javascript">
-
-
-//<![CDATA[
-
-
-document.write('<iframe src="https://kata-h.blogspot.com" allowfullscreen="allowfullscreen" style="height: 800px; width: 100%;"></iframe>');
-
-
-//]]>
-
-
-</script>
-
-<script type="text/javascript">
-
-
-//<![CDATA[
-
-
-document.write('<iframe src="http://feeds.feedburner.com/blogspot/vrKPF" allowfullscreen="allowfullscreen" style="height: 800px; width: 100%;"></iframe>');
-
-
-//]]>
-
-
-</script>
-
 image logo
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://kata-h.blogspot.com/?m=1" rel="nofollow" style="margin-left: 0em; margin-right: 0em;" target="_blank"><img border="0" data-original-height="320" data-original-width="320" height="120" src="https://1.bp.blogspot.com/-0q6-TbiYLEY/YJfgoXvTrKI/AAAAAAAAC6I/-w32v-7i95UqW5zCapKDpOTrGUQ6IyT4ACLcBGAsYHQ/s600/ALHIKMAH.png" /></a></div>
