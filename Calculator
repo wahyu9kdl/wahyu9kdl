@@ -1,0 +1,138 @@
+<!Doctype html>
+<html>
+    <heads>
+        <title>
+            CALCULATOR
+        </title>
+        <style>
+            .body{
+                width:340px;
+                height:510px;
+                border:4px solid grey;
+                background-color: rgba(73, 76, 95, 0.329);
+                 border-radius:15px ;
+            }
+#answer{
+width :280px;
+height :50px;
+padding-top: 10px;
+border-radius:10px;
+
+color: white;
+Back-ground-color:grey;
+text-size:x-large;
+}
+.calc{
+    margin-top:25px;
+}
+.calc>input{
+margin-top:40px ;
+width:50px;
+height:50px;
+margin:5px;
+display:inline-block;
+
+text-decoration: oldlace;
+font-size: x-large;
+
+background-color:rgb(93, 107, 99);
+font-color: white;
+
+}
+
+.calc2>input{
+padding: 5px;
+width:60px;
+height:60px;
+margin:10px;
+ border-radius:5px ;
+font-align: center;
+font-size:x-large;
+colour:white;
+background-color: grey;
+box-shadow:  3px 3px 2px lightgrey, -3px -3px 2px darkgrey;
+
+border:none;
+}
+input:hover{
+    box-shadow: inset 3px 3px 2px lightgrey,inset -3px -3px 2px darkgrey;
+}
+
+
+
+
+
+        </style>
+        <style type="text/css">
+        body{
+        background-color: #f1c40f;
+        -webkit-animation: color 5s ease-in  0s infinite alternate running;
+        -moz-animation: color 5s linear  0s infinite alternate running;
+        animation: color 5s linear  0s infinite alternate running;
+        }
+        
+        /* Animasi + Prefix untuk browser */
+        @-webkit-keyframes color {
+        0% { background-color: #f1c40f; }
+        32% { background-color: #e74c3c; }
+        55% { background-color: #9b59b6; }
+        76% { background-color: #16a085; }
+        100% { background-color: #2ecc71; }
+        }
+        @-moz-keyframes color {
+        0% { background-color: #f1c40f; }
+        32% { background-color: #e74c3c; }
+        55% { background-color: #9b59b6; }
+        76% { background-color: #16a085; }
+        100% { background-color: #2ecc71; }
+        }
+        @keyframes color {
+        0% { background-color: #f1c40f; }
+        32% { background-color: #e74c3c; }
+        55% { background-color: #9b59b6; }
+        76% { background-color: #16a085; }
+        100% { background-color: #2ecc71; }
+        }
+        </style>
+   </heads>
+   <body>
+ <div class="container" align="Center">
+ <h1>Calculator</h1>
+   
+   
+   <div class="body">   
+   <form name="forms">
+   <div class="calc">
+   <input type="text" name="screen" id="answer"><br></input>
+   <div class="calc2">   
+   <input type="button" value=" 1 "  onclick="forms.screen.value +='1' ">
+   <input type="button" value=" 2 "  onclick="forms.screen.value +='2' ">
+   <input type="button" value=" 3 "  onclick="forms.screen.value +='3' ">
+   <input type="button" value=" C "  onclick="forms.screen.value ='' "><br>
+   <input type="button" value=" 4 "  onclick="forms.screen.value +='4' ">
+   <input type="button" value=" 5 "  onclick="forms.screen.value +='5' ">
+   <input type="button" value=" 6 "  onclick="forms.screen.value +='6' ">
+   <input type="button" value=" - "  onclick="forms.screen.value += '-' "><br>
+   <input type="button" value=" 7 "  onclick="forms.screen.value +='7' ">
+   <input type="button" value=" 8 "  onclick="forms.screen.value +='8' ">
+   <input type="button" value=" 9 "  onclick="forms.screen.value +='9' ">
+   <input type="button" value=" * "  onclick="forms.screen.value +='*' "><br>
+   <input type="button" value=" % "  onclick="forms.screen.value +='%' ">
+   <input type="button" value=" 0 "  onclick="forms.screen.value +='0' ">
+   <input type="button" value=" ."  onclick="forms.screen.value += '.'">
+   <input type="button" value="  /"  onclick="forms.screen.value += '/' "><br>
+   <input type="button" value=" + "  onclick="forms.screen.value +=  '+' ">
+   <input type="button" value=" = "  onclick="forms.screen.value = eval(forms.screen.value)">
+   
+   </div>
+   
+   
+  <a href="https://kata-h.blogspot.com/p/kontak.html" ><button> Service</button> </a>
+   
+   </form>
+   
+   </div>
+   </body>
+   
+   
+   </html>
