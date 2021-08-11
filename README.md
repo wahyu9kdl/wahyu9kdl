@@ -29,6 +29,13 @@ Aw Browser
 
 https://cse.google.co.id/cse?cx=4a26c594511b8cd0c#gsc.tab=0
 
+🔄  Js Bin  Navibox
+    https://jsbin.com/tejuxic/
+
+©️®️ Js Bin Calculator
+https://jsbin.com/soqasos/edit?output
+
+
 
 Donasi Dan Pembayaran Order Project
 Transfer uangnya pakai DANA aja. Lebih praktis, transfer di sini ya 
