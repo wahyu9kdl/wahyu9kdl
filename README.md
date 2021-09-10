@@ -1,39 +1,39 @@
 - 👋 Hi, I’m @wahyu9kdl
 - 👀 Developer Desaign 
 - 🌱 about.me/ahmadwahyudi ( https://about.me/ahmadwahyudi )
-- 📫 Situs Blog 📡 
+- 📫 Situs Blog 
+Website ISLAMIC <a href="https://kata-h.blogspot.com/">[ AL HIKMAH ]</a>
 
-KATA KATA HIKMAH [ AL HIKMAH ]
-https://kata-h.blogspot.com/
 
-Aw Sos [ Comunity ] 
-https://awsos.blogspot.com/
+<a href="https://awsos.blogspot.com/">Awgroupchannel [ Comunity ] </a>
+
 
 Aw Channel 
 
-https://youtube.com/channel/UC7CRa3nkxakAZx_aRsMwRyA
+<a href="https://youtube.com/channel/UC7CRa3nkxakAZx_aRsMwRyA">Preview Youtube Channel</a>
 
-Aw Landing Page 
 
-https://jali.me/Profesional
+<a href="https://jali.me/Profesional">Aw Landing Page </a>
 
-Aw Marketplace
 
-https://inpage.es/UOAg
 
-Aw Upload File 
+<a href="https://inpage.es/UOAg">Aw Marketplace</a>
 
-https://sfile.mobi/inv.php?id=358103
 
-Aw Browser
 
-https://cse.google.co.id/cse?cx=4a26c594511b8cd0c#gsc.tab=0
+<a href="https://sfile.mobi/inv.php?id=358103">Aw Upload File </a>
+
+
+
+<a href="https://cse.google.co.id/cse?cx=4a26c594511b8cd0c#gsc.tab=0">Aw Browser</a> Menggunakan CSE Google Seacrh Enggine
+
+
 
 🔄  Js Bin  Navibox
-    https://jsbin.com/tejuxic/
+    <a href="https://jsbin.com/tejuxic/">PREVIE NAVIBOX</a>
 
 ©️®️ Js Bin Calculator
-https://jsbin.com/soqasos/edit?output
+<a href="https://jsbin.com/soqasos/edit?output">Excample Calculator Desain</a>
 
 
 
