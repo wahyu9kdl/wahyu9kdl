@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+                <link rel="stylesheet" type="text/css" href="style.css">
+
+                <script src="https://kit.fontawesome.com/c24795123c.js" crossorigin="anonymous"></script>
+
+                <title>Partfolio Design</title>
+<link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
+        <link href='https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css' rel='stylesheet'/>
+        <link rel="stylesheet" href="style.css">
+        <title>3D Theme</title>
+        <style type="text/css">
+        /* Style Settings */
+        
+        @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+        :root {
+        --font: 'Karla', 'Karla', sans-serif;
+        }
+        
+        body {
+        background-color: #0a072e;
+        }
+        
+        #userPhoto {
+        width: 96px;
+        height: 96px;
+        display: block;
+        margin: 35px auto 20px;
+        -webkit-box-shadow: 0px 6px 0px 0px rgba(222, 218, 162, 1);
+        -moz-box-shadow: 0px 6px 0px 0px rgba(222, 218, 162, 1);
+        box-shadow: 0px 6px 0px 0px rgba(222, 218, 162, 1);
+        transition: all 0.15s;
+        }
+        
+        #userPhoto:hover {
+        box-shadow: 0px 8px rgba(222, 218, 162, 1);
+        transform: translateY(-2px);
+        }
+        
+        #userPhoto:active {
+        box-shadow: 0px 0px black;
+        transform: translateY(6px);
+        }
+        
+        #userName {
+        color: white;
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1.25;
+        display: block;
+        font-family: var(--font);
+        width: 100%;
+        text-align: center;
+        text-decoration: none;
+        }
+        
+        #links {
+        max-width: 675px;
+        width: auto;
+        display: block;
+        margin: 27px auto;
+        }
+        
+        @media only screen and (max-width: 700px) {
+        #links {
+        margin-left: 3%;
+        margin-right: 3%;
+        }
+        .night_mode {
+        margin-right: 40%;
+        }
+        }
+        
+        .link {
+        display: block;
+        background-color: #01A79B;
+        color: #fff;
+        font-family: var(--font);
+        text-align: center;
+        margin-bottom: 20px;
+        padding: 17px;
+        text-decoration: none;
+        font-size: 1rem;
+        font-weight: bold;
+        transition: all 0.15s;
+        box-shadow: 0px 6px #007569;
+        }
+        
+        .link:hover {
+        /* background: #019489; */
+        box-shadow: 0px 8px #007569;
+        transform: translateY(-2px);
+        }
+        
+        .link:active {
+        transform: translateY(6px);
+        box-shadow: 0px 0px #007569;
+        }
+        
+        #proker {
+        max-width: 300px;
+        width: auto;
+        display: grid;
+        margin: 27px auto;
+        }
+        
+        .footer {
+        text-align: center;
+        font-size: 1.3rem;
+        }
+        
+        .footer a {
+        text-decoration: none;
+        }
+        
+        .media {
+        background: #DD5A79;
+        width: 38px;
+        height: 38px;
+        text-align: center;
+        color: white;
+        margin-bottom: 40px;
+        box-shadow: 0px 6px #9E4355;
+        transition: all 0.15s;
+        }
+        
+        .media:hover {
+        box-shadow: 0px 8px #9E4355;
+        transform: translateY(-2px);
+        }
+        
+        .media:active {
+        transform: translateY(6px);
+        box-shadow: 0px 0px #9E4355;
+        }
+        </style>
+<style type="text/css">
+*{
+
+                margin: 0;
+
+                padding: 0;
+
+                box-sizing: border-box;
+
+                font-family: sans-serif;
+
+}
+
+body{
+
+                background: rgba(0,0,0,0.4) url(https://1.bp.blogspot.com/-aX1uiZvg5OU/YQqD3In-ovI/AAAAAAAADsA/GDq5kYJhUZAr4m2a-snLkgnorlMStqbZwCLcBGAsYHQ/s169/3dgifmaker04194.gif);
+
+                background-size: cover;
+
+                background-blend-mode: darken;
+
+}
+
+.navbar{
+
+                color: white;
+
+                display: inline-flex;
+
+}
+
+.navbar .logo{
+
+                margin: 10px;
+
+                padding: 20px;
+
+                font-size: 25px;
+
+}
+
+.navbar .item{
+
+                position: absolute;
+
+                left: 35%;
+
+                display: inline-flex;
+
+                margin: 10px;
+
+                padding: 20px;
+
+                width: 50%;
+
+                text-align: center;
+
+}
+
+.navbar .item ul li{
+
+                display: inline-flex;
+
+                padding: 10px;
+
+}
+
+.navbar .item ul li a{
+
+                color: white;
+
+                text-decoration: none;
+
+}
+
+.navbar .item ul li a:hover{
+
+                color: deepskyblue;
+
+}
+
+.navbar .btn{
+
+                align-items: right;
+
+                position: absolute;
+
+                left: 85%;
+
+                margin: 10px;
+
+                padding: 20px;
+
+}
+
+.navbar .btn button{
+
+    height: 30px;
+
+                width: 100px;
+
+                background: deepskyblue;
+
+                border: none;
+
+                outline: none;
+
+                cursor: pointer;
+
+                color: white;
+
+                font-size: 18px;
+
+                border-radius:15px;
+
+}
+
+span{
+
+                color: deepskyblue;
+
+}
+
+.container{
+
+                margin: 40px;
+
+                height: 400px;
+
+                width: 500px;
+
+}
+
+.container .hd p{
+
+                color:grey;
+
+                margin-right:10px;
+
+                margin: 20px;
+
+                padding: 20px;
+
+}
+
+.container .hd{
+
+                margin: 30px;
+
+                padding: 30px;
+
+}
+
+.container .hd h1{
+
+                color: white;
+
+                font-size: 45px;
+
+                margin-top: -25px;
+
+}
+
+.container h2{
+
+                color: white;
+
+}
+
+.search input{
+
+                margin: 20px;
+
+                margin-left: 50px;
+
+    height: 30px;
+
+    width: 200px;
+
+    border-radius: 15px;
+
+    outline: none;
+
+    text-align: center;
+
+}
+
+.search button{
+
+                height: 30px;
+
+                width: 100px;
+
+                background: deepskyblue;
+
+                border: none;
+
+                outline: none;
+
+                cursor: pointer;
+
+                border-radius: 15px;
+
+                color: white;
+
+                font-size: 18px;
+
+}
+
+.icon{
+
+                display: inline-flex;
+
+                margin-left:60px;
+
+                margin-top: -60px;
+
+}
+
+.icon h3{
+
+                margin: 40px;
+
+                color: white;
+
+}
+
+.icon i{
+
+                cursor: pointer;
+
+                padding: 40px;
+
+                color: white;
+
+}
+
+.icon i:hover{
+
+                color: deepskyblue;
+
+}
+</style>
+</head>
+
+<body>
+
+                <nav class="navbar">
+
+                                <div class="logo">
+
+                                                 <h1>Portfo<span>lio</span></h1>
+
+                                </div>
+
+                                <center><div class="item">
+
+                                                <ul>
+
+                                                                <li><a href="https://www.alhikmah.my.id/p/license.html">About Us</a></li>
+
+                                                                <li><a href="https://forms.gle/rZqhBfBLZnoraUMg8">Services</a></li>
+
+                                                                <li><a href="https://www.alhikmah.my.id/2020/07/kerja-dirumah-aman-dari-covide-19.html?m=1">Skills</a></li>
+
+                                                                <li><a href="https://kata-h.blogspot.com/p/login_25.html">Contact Us</a></li>
+
+                                                </ul>
+
+                                </div></center>
+
+                                <div class="btn">
+
+                                                <a href="https://www.alhikmah.my.id/2020/10/kilas-sejarah-sang-pendiri-bangsa-ir.html?m=1" ><button>Subscribe</button></a>
+
+                                </div>
+
+                </nav>
+
+ <center>               <div class="container">
+
+                                <div class="hd">
+
+                                                <p>Hello, my name is</p>
+
+                                                <h1>Pa <span>ijo</span></h1>
+
+                                                <h2>I'm happy to be Indonesian</h2>
+
+                                </div>
+
+                                <div class="search">
+
+                                                <input type="text" name="" placeholder="Enter Your Email.....">
+
+                                                <button>Let's Start</button>
+
+                                </div>
+
+                </div>
+
+                <div class="icon">
+
+                               <h3>Let's Connect</h3>
+                                
+                               <ul>
+
+                               <a href="https://www.facebook.com/Aw-Fans-Page-110871494515718/" ><i class="fa fa-facebook"></i></a>
+
+                               <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFyZTB5Mm90YWMtb2N6dUN6c0Q4MkJYUHFJd3xBQ3Jtc0tsdGhFY1B2RzdEcnpzc2JPelBOT2I0UnM4dTVKUjY2UVR5YUxkYkdPd3dzVkVoRi1XUUx6d3dvZEZ6Mkxna0Z6LWRJbF9kQVI3YjMzRkNhT3JZRXRueGNmeEVqc2FfUG0xcmZQTjVYNDJ3X0dzbkJpUQ&q=https%3A%2F%2Fkata-h.blogspot.com%2F&html_redirect=1" ><i class="fa fa-instagram"></i></a>                                                            
+
+                               <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTVKcjB5MGVZbmZlWmw0Vm1BT0I5TDhMaGR4QXxBQ3Jtc0tsWEY3V2RrZS1CNDdxeFFoOTl5dWV4c1J2N2hiSklwWFVOMzhlZThzTy1DT09UUnk0UC1aRUJlVWFPbUlnMnFFTF9DU3BnaVBzQkNBc1JPczNYSVNqNjlnbTlac1c5ZU1DWEFaemJEZjJZN2otRzJpVQ&q=https%3A%2F%2Fkata-h.blogspot.com%2F&html_redirect=1" ><i class="fa fa-youtube"></i></a>
+                                
+                               <a href="https://www.alhikmah.my.id/2020/10/panduan-membuat-daftar-isi-sederhana.html?m=1" ><i class="fa fa-twitter"></i></a>                                                                                              
+                                                                                              
+                               <a href="https://github.com/wahyu9kdl" ><i class="fa fa-pinterest"></i></a>
+                                
+                              <a href="https://github.com/wahyu9kdl" > <i class="fa fa-linkedin"></i></a>
+                                
+                              <a href="https://github.com/wahyu9kdl" > <i class="fa fa-skype"></i></a>
+                                
+                               <a href="https://github.com/wahyu9kdl" ><i class="fa fa-whatsapp"></i> </a>                               
+                                                                                                                           
+                               <a href="https://www.alhikmah.my.id/2020/10/kilas-sejarah-sang-pendiri-bangsa-ir.html?m=1" > <i class="fa fa-reddit"></i> </a>                                                                                                                                                                 
+                                
+                               <a href="https://youtu.be/1D8x2SvHb8w" ><i class="fa fa-google"></i></a>
+                                
+                               <a href="http://appsgeyser.com/widgetdownload.php?widget=KATA%20KATA%20HIKMAH%20AL%20HIKMAH_12877712" ><i class="fa fa-yahoo"></i></a>                                     
+                                
+                               <a href="https://sfile.mobi/downIoad/675340/358103/263140fc55b1166d5dee69fffbb7b708/kitab-ta-lim-muta-alim-dan-terjemahan.docx&is=277f6c96177a9105085c86678266ffc6" > <i class="fa fa-apple"></i></a>
+                       
+                               <a href="https://github.com/wahyu9kdl" ><i class="fab fa-github"></i></a>
+                                
+                               <a href="https://www.alhikmah.my.id/2021/08/digital.html?m=1" > <i class="fab fa-codepen"></i> </a>                               
+                                
+                               <a href="https://www.alhikmah.my.id/2021/07/download-file.html" ><i class="fab fa-js"></i></a>
+                                
+                               <a href="https://www.alhikmah.my.id/2020/09/etika-jawa-sebuah-analisa-falsafi.html?m=1" ><i class="fab fa-php"></i></a>
+                                
+                               </ul>
+                                                                                       
+                              </div>                                                                                             
+                </div>
+                <div class='navbar no-items section' id='navbar'></div>
+                <img alt='User Photo' id='userPhoto' src='https://1.bp.blogspot.com/-v4Yi0oSR0-c/X1YRNalQZLI/AAAAAAAAA6U/xMnEQKBDgPgKFXQONoHthgMbQ91QURBlACLcBGAsYHQ/s0/technopreneur.jpg'/>
+                <spam id='userName'>3D Theme by Awgroupchannel</spam>
+                <div id='links'>
+                <a class='link' href='#yourLink' target='_blank'><i aria-hidden='true' class='fa fa-camera'></i>&#160;&#160;Photography Submission</a>
+                <a class='link' href='#yourLink' target='_blank'><i aria-hidden='true' class='ri-discord-fill'></i>&#160;&#160;Discord Server</a>
+                <a class='link' href='#yourLink' target='_blank'><i aria-hidden='true' class='fa fa-video-camera'></i>&#160;&#160;Zoom Webinar Room</a>
+                </div>
+                <div class='footer'>
+                <a href='#yourLink' target='_blank'>
+                <i aria-hidden='true' class='fa fa-globe media' style='line-height: 38px; font-size: 10px;'></i>
+                </a>
+                <a href='#yourLink' target='_blank'>
+                <i aria-hidden='true' class='fa fa-envelope-o media' style='line-height: 38px; font-size: 10px;'></i>
+                </a>
+                <a href='#yourLink'>
+                <i aria-hidden='true' class='fa fa-comments-o media' style='line-height: 38px; font-size: 10px;'></i>
+                </a>
+                <a href='#yourLink' target='_blank'>
+                <i aria-hidden='true' class='fa fa-instagram media' style='line-height: 38px; font-size: 10px;'></i>
+                </a>
+                </div>
+                <!-- Javascript -->
+                <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+                
+</center>
+
+</body>
+
+</html>
