@@ -4,6 +4,17 @@
 - 🌱 about.me/ahmadwahyudi ( https://about.me/ahmadwahyudi )
 - 📫 Desainner Situs website information and academic
 
+<h2>DEV</h2>
+<a href="https://dev.to/wahyu9kdl">PROFILE DEV </a>
+Ahmad Wahyudi
+Developer <a href="www.alhikmah.my.id">AL HIKMAH </a>
+Rencana Projects Coding APLICATION <a href="https://www.alhikmah.my.id/p/mp3-al-quran.html?m=1"> Mp3 Al - QUR'AN </a>
+
+Indonesia
+Joined on 
+10 Okt 2021
+
+
 <h2>PROJECT DESAING WEBSITE AND APLICATION </h2>
 1. Website ISLAMIC <a href="https://kata-h.blogspot.com/">[ AL HIKMAH ]</a>
 2. <a href="https://awsos.blogspot.com/">Awgroupchannel [ Comunity ] </a>
