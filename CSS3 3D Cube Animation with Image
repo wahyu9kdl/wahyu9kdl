@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>CSS3 3D Cube Animation with Image</title>
+    <meta name="author" content="Codeconvey" />
+    
+    <!-- Style CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!--Only for demo purpose - no need to add.-->
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+	
+<style type="text/css">
+body{
+  background: green;
+}
+.contenedor {
+  -webkit-perspective: 500px;
+  perspective: 500px;
+  perspective-origin: 50% 50%;
+}
+
+.cube, .cube .card{
+  height: 290px;
+  width: 290px;
+}
+
+.cube {
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+
+  -webkit-transform: rotateX(-30deg) rotateY(30deg);
+  transform: rotateX(-30deg) rotateY(-30deg);
+
+  margin: 150px auto;
+
+  -webkit-animation: giro 20s infinite linear;
+  animation: giro 20s infinite linear;
+}
+
+.cube .card {
+  position: absolute;
+  border: 5px solid #ccc;
+  opacity: 0.85;
+  transition: 0.2s;
+}
+/* Pause animation on hover */
+.cube:hover{
+    animation-play-state: paused;
+}
+.cube:hover .card{
+   opacity: 1;
+   transition: 0.2s;
+}
+
+/*card frontal*/
+.cube .card:nth-child(1) {
+  -webkit-transform: translateZ(150px);
+  transform: translateZ(150px);
+}
+/*card posterior*/
+.cube .card:nth-child(2) {
+  -webkit-transform: rotateY(180deg) translateZ(150px);
+  transform: rotateY(180deg) translateZ(150px);
+}
+/*card izquierda*/
+.cube .card:nth-child(3) {
+  -webkit-transform: rotateY(-90deg) translateZ(150px);
+  transform: rotateY(-90deg) translateZ(150px);
+}
+/*card derecha*/
+.cube .card:nth-child(4) {
+  -webkit-transform: rotateY(90deg) translateZ(150px);
+  transform: rotateY(90deg) translateZ(150px);
+}
+/*card superior*/
+.cube .card:nth-child(5) {
+  -webkit-transform: rotateX(90deg) translateZ(150px);
+  transform: rotateX(90deg) translateZ(150px);
+}
+/*card inferior*/
+.cube .card:nth-child(6) {
+  -webkit-transform: rotateX(-90deg) translateZ(150px);
+  transform: rotateX(-90deg) translateZ(150px);
+}
+
+@-webkit-keyframes giro {
+    0% { -webkit-transform: rotateX(-45deg) rotateY(0deg); }
+    50% { -webkit-transform: rotateX(45deg) rotateY(360deg); }
+    100% { -webkit-transform: rotateX(-45deg) rotateY(720deg); }
+}
+
+@keyframes giro {
+    0% { transform: rotateX(-45deg) rotateY(0deg); }
+    50% { transform: rotateX(45deg) rotateY(360deg); }
+    100% { transform: rotateX(-45deg) rotateY(720deg); }
+}
+
+@-webkit-keyframes giro360 {
+    0% { -webkit-transform: rotateX(  0deg) rotateY(  0deg); }
+  100% { -webkit-transform: rotateX(360deg) rotateY(360deg); }
+}
+
+@keyframes giro360 {
+    0% { transform: rotateX(  0deg) rotateY(  0deg); }
+  100% { transform: rotateX(360deg) rotateY(360deg); }
+}
+</style>
+
+</head>
+<body>
+		
+<div class="ScriptTop">
+    <div class="rt-container">
+        <div class="col-rt-4" id="float-right">
+
+            <!-- AD HERE -->
+            
+        </div>
+        <div class="col-rt-2">
+            <ul>
+                <li><a href="https://kata-h.blogspot.com"> AL HIKMAH</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<header class="ScriptHeader">
+    <div class="rt-container">
+    	<div class="col-rt-12">
+        	<div class="rt-heading">
+            	<h1>CSS3 3D Cube Animation with Image</h1>
+                <p>Cube animated clickable images with CSS3.</p>
+            desain by <a href="https://kata-h.blogspot.com"> AL HIKMAH</a></li>
+            </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section>
+    <div class="rt-container">
+          <div class="col-rt-12">
+              <div class="Scriptcontent">
+              
+<!-- partial:index.partial.html -->
+<div class="contenedor"> 
+			<div class="cube">
+				<div class="card">
+                    <a href="https://www.alhikmah.my.id/search/label/SHOLAWAT?m=1">
+					<img src="https://4.bp.blogspot.com/-D2onv2ZTYMM/Wx-rxl5Vl8I/AAAAAAAALuA/kbWusxshfeUyEBDp1TzW9KXRaXud9uDegCLcBGAs/s1600/10356692_10153065521447125_7960960576663210449_n.jpg" title="makkah" alt="makkah" height="290px" width="290px" >
+				  </a>
+                        </div>
+				<div class="card">
+                    <a href="https://www.alhikmah.my.id/search/label/Islam?m=1">
+					<img src="https://1.bp.blogspot.com/-oSgmmkc-lmc/Wx-rnpeS11I/AAAAAAAALto/e5pBOosoRUUKlGtslqW8KIFlKfoB4nxkgCLcBGAs/s1600/madina-shareef-86-1.jpg" title="kaligrafi" alt="kaligrafi" width="290px" height="290px">
+				  </a>
+                        </div>
+				<div class="card">
+                    <a href="https://www.alhikmah.my.id/search/label/KISAH%20HIKMAH?m=1">
+					<img src="https://3.bp.blogspot.com/-Vm7U3Fjh_yo/W6ug62ygLLI/AAAAAAAAL2c/11IjIGC7Sgopjb_VWWidlMkOnPoVs9-uQCLcBGAs/s1600/8.jpg" title="MASJID" alt="MASJID" width="290px" height="290px">
+				  </a>
+                        </div>
+				<div class="card">
+                    <a href="https://www.alhikmah.my.id/search/label/media%20dakwah?m=1">
+					<img src="https://2.bp.blogspot.com/-82UKjAlNvA4/W6ug114p0rI/AAAAAAAAL2I/dB7jAFbc3qYavy0f4DrzFiIvc3fkML23gCLcBGAs/s1600/3.jpg" title="masjid " alt="masjid " width="290px" height="290px">
+				  </a>
+                        </div>
+				<div class="card">
+                    <a href="https://kata-h.blogspot.com">
+					<img src="https://cdn.pixabay.com/photo/2015/08/11/16/27/islam-884825__480.jpg" title="AL HIKMAH" alt="AL HIKMAH" width="290px" height="290px">
+				  </a>
+                        </div>
+				<div class="card">
+                    <a href="https://www.alhikmah.my.id/2020/10/kisah-kisah-25-nabi-dan-rasul-berserta.html?m=1">
+					<img src="https://1.bp.blogspot.com/-QxKSv_3al6U/YOkusbndOsI/AAAAAAAADi4/83MrRDm2OmE5BjhDCbZN8Ah7gPJZIRQfgCLcBGAsYHQ/s320/logo7_10_121837.png" title="padang pasir" alt="Padang Pasir" width="290px" height="290px">
+                    </a>
+				</div>
+                    
+			</div>
+		</div>
+<!-- partial -->
+    		
+           
+    		</div>
+		</div>
+    </div>
+</section>
+     
+
+   <!-- ANALYTICS -->
+
+	</body>
+</html>
