@@ -90,29 +90,28 @@ Donasi via PayPal PayPal.me https://paypal.me/wahyudi9kdl?locale.x=id_ID
 
 Dengan ini Kami Ucapkan Banyak Terima Kasih Atas Donasi dan Partisipasi Anda.
 
-<h2> DESAIN LOGO </h2>
+## DESAIN LOGO
+<table><tr><td valign="top" width="50%"> 
+<div align="center">  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/b29b98ca2f507d2ef422dd5a548c3ed82108821d52e413b58d1715b326fccdc7/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d3071362d546269594c45592f594a66676f587654724b492f41414141414141414336492f2d773332762d37693935557157357a4361704b44704f5472475551364979543441434c63424741735948512f733630302f414c48494b4d41482e706e67 " alt="ALHIKMAH" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/wahyu9kdl/wahyu9kdl/main/logo.png " alt="Logo ALHIKMAH.MY.ID" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/wahyu9kdl/wahyu9kdl/main/Kumpulan-Sholawat-Nabi(alhikmah.my.id).png " alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/5b09aa408358eda7cba977c95dccaf65b070ed679c9be064297a11161058d1f2/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d735749774852616b54744d2f594a7068586a65796f46492f41414141414141414339632f37747230382d4d665f387379524457346c4c30514e7042564431773734772d6841434c63424741735948512f733630302f6c6f676f355f31315f31353330322e706e67 " alt="Awgroupchannel" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/5c34995cecaed29545b011d559d53c834c1e60749cc3a2f6cbd2345d7388bc84/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d3837573957597a654e5f732f594a77573344686f5452492f4141414141414141435f512f38756a55326d596f574e5177685a59654d43432d38355f504b79316d61646d3177434c63424741735948512f733630302f6c6f676f355f31325f32333434362e706e67 " alt="Awgroupchannel" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/7ec1761ed1a9dff9dc55e17b26aeba55db7f3e71ea79e5d5018c4ca89e4945fe/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d4144525a78437278592d302f594a7757325949335955492f4141414141414141435f492f6b4d4848443054726a63774635676a33395879646872566f5638476c4f36393951434c63424741735948512f733630302f6c6f676f355f31325f32313138302e706e67 " alt="Aw Landing Page" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/c0db471f9dbeaa4d27677f05f9ac503a013ae6cf47e50e0c08ae26d189cbb139/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d7570666d59726d314d6a342f594a7757323573673069492f4141414141414141435f4d2f436969493671304f54727332417a59336d394c344448356a62324b4a5a685f6c67434c63424741735948512f733630302f6c6f676f355f31325f3231313935362e706e67 " alt="Aw Upload File" height="50" />  
+<img style="margin: 10px" src="https://camo.githubusercontent.com/bc3c6cd4143c3156a42620238198ad865ea92cbc8c8b01e5d697c4422cc18f5b/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d6365674d6c64302d666d512f594a7068556d6176524e492f41414141414141414338342f627a306a5f343343515563547a4a324f62344d5159585659557a395f6950745341434c63424741735948512f733630302f6c6f676f355f31315f30333233302e706e67 " alt="Aw Comunity" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/wahyu9kdl/wahyu9kdl/main/website-hosting.gif " alt="Chart.js" height="50" />  
 
-Beberapa Desain Pengembangan Logo yang kami distribusikan disitus yang Kami kembangkan berikut ini kami tampilankan Beberapa desainnya ; 
+</div></td></tr></table>
 
-image logo
-<div class="separator" style="clear: both; text-align: center;"><a href="https://kata-h.blogspot.com/?m=1" rel="nofollow" style="margin-left: 0em; margin-right: 0em;" target="_blank"><img border="0" data-original-height="320" data-original-width="320" height="120" src="https://1.bp.blogspot.com/-0q6-TbiYLEY/YJfgoXvTrKI/AAAAAAAAC6I/-w32v-7i95UqW5zCapKDpOTrGUQ6IyT4ACLcBGAsYHQ/s600/ALHIKMAH.png" /></a></div>
-kode QR
-<img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fwww.example.com&chs=180x180&choe=UTF-8&chld=L|2' rel='nofollow' alt='qr code'><a href='https://kata-h.blogspot.com/?m=1
-            ' border='0' style='cursor:default'  rel='nofollow'><i
-/a>
 
-image logo
-<div class="separator" style="clear: both; text-align: center;"><a href="https://awsos.blogspot.com/?m=1" rel="nofollow" style="margin-left: 0em; margin-right: 0em;" target="_blank"><img border="0" data-original-height="320" data-original-width="320" height="120" src="https://1.bp.blogspot.com/-87W9WYzeN_s/YJwW3DhoTRI/AAAAAAAAC_Q/8ujU2mYoWNQwhZYeMCC-85_PKy1madm1wCLcBGAsYHQ/s600/logo5_12_23446.png" /></a></div>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://awsos.blogspot.com/?m=1" rel="nofollow" style="margin-left: 0em; margin-right: 0em;" target="_blank"><img border="0" data-original-height="320" data-original-width="320" height="120" src="https://1.bp.blogspot.com/-upfmYrm1Mj4/YJwW25sg0iI/AAAAAAAAC_M/CiiI6q0OTrs2AzY3m9L4DH5jb2KJZh_lgCLcBGAsYHQ/s600/logo5_12_211956.png" /></a></div>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://awsos.blogspot.com/?m=1" rel="nofollow" style="margin-left: 0em; margin-right: 0em;" target="_blank"><img border="0" data-original-height="320" data-original-width="320" height="120" src="https://1.bp.blogspot.com/-sWIwHRakTtM/YJphXjeyoFI/AAAAAAAAC9c/7tr08-Mf_8syRDW4lL0QNpBVD1w74w-hACLcBGAsYHQ/s600/logo5_11_15302.png" /></a></div><div class="separator" style="clear: both; text-align: center;"><a href="https://awsos.blogspot.com/" rel="nofollow" style="margin-left: 0em; margin-right: 0em;" target="_blank"><img border="0" data-original-height="320" data-original-width="320" height="120" src="https://1.bp.blogspot.com/-ADRZxCrxY-0/YJwW2YI3YUI/AAAAAAAAC_I/kMHHD0TrjcwF5gj39XydhrVoV8GlO699QCLcBGAsYHQ/s600/logo5_12_21180.png" /></a></div>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://awsos.blogspot.com/" rel="nofollow" style="margin-left: 0em; margin-right: 0em;" target="_blank"><img border="0" data-original-height="320" data-original-width="320" height="120" src="https://1.bp.blogspot.com/-cegMld0-fmQ/YJphUmavRNI/AAAAAAAAC84/bz0j_43CQUcTzJ2Ob4MQYXVYUz9_iPtSACLcBGAsYHQ/s600/logo5_11_03230.png" /></a></div>
-
-<h2> API </h2>
+## API 
 🔗 API KEY
 
 22b72eb016f725afab477548bba6fc0a471a4
 
-<h2> LICENSE </h2>
+## LICENSE 
 
 <!---
 wahyu9kdl/wahyu9kdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
