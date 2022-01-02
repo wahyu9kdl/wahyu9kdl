@@ -1,6 +1,6 @@
-<h1>PROFILE</h1>
+# PROFILE
 - 👋 Hi, I’m @wahyu9kdl
-- 👀 Developer Desaign 
+- 👀 I'm Developer , I'm Creator 
 - 🌱 about.me/ahmadwahyudi ( https://about.me/ahmadwahyudi )
 - 📫 Desainner Situs website information and academic
 
@@ -35,7 +35,8 @@ Joined on
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+Frontend  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -48,7 +49,8 @@ Joined on
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 </div></td><td valign="top" width="33%">
 
-### Backend  
+Backend  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
@@ -65,7 +67,8 @@ Joined on
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div></td><td valign="top" width="33%">
 
-### DevOps  
+ DevOps  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
