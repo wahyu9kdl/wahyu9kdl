@@ -5,6 +5,11 @@
 - 📫 Desainner Situs website information and academic
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=blod&color=%2336BCF7&size=30&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40wahyu9kdl+;%F0%9F%98%8A+I'm+Developer+and+Desaigner;%F0%9F%8C%B1+about.me%2Fahmadwahyudi+(+https%3A%2F%2Fabout.me%2Fahmadwahyudi+)+-+%F0%9F%93%AB+Desainner+Situs+website+information+and+academic)](https://git.io/typing-svg)
+
+## 🔥 GitHub Readme Streak Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wahyu9kdl&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <h2>DEV</h2>
 <a href="https://dev.to/wahyu9kdl">PROFILE DEV </a>
 Ahmad Wahyudi
