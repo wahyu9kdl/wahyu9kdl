@@ -121,6 +121,10 @@ Send <a href="https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.c
 
 22b72eb016f725afab477548bba6fc0a471a4
 
+## DONATION
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C57S9WF)
+
 ## LICENSE 
 
 <!---
