@@ -150,7 +150,7 @@ For licensing, see LICENSE.html or https://www.awgroupchannel.my.id/p/license.ht
 <h3 align="left">Support:</h3>
 
  
-<a href="https://www.buymeacoffee.com/Support"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support" /></a>
+<a href="https://trakteer.id/awfanspage/tip "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support" /></a>
 <a href="https://ko-fi.com/Awfanspage"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Awfanspage" /></a>
 
 <br/>  
