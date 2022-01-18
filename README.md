@@ -9,9 +9,47 @@
 
 # FEATURED
 
-- [HOME PAGE](https://wahyu9kdl.github.io/wahyu9kdl)
+[HOME PAGE](https://wahyu9kdl.github.io/wahyu9kdl)
 - [PROFILE](https://wahyu9kdl.github.io)
 - [LOGIN](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwahyu9kdl)
+- [AW DEV](https://wahyu9kdl.github.io/AwDev.html)
+- [ADS](https://wahyu9kdl.github.io/Ads.html)
+- [UNIQE Text](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/UNIQEText.html)
+- [ 𝐔𝐍𝐈𝐐𝐄𝐓𝐞𝐱𝐭 to Handwriting ](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/Handwriting.html)
+- [Page Coding](https://wahyu9kdl.github.io/HTML/Coding.html)
+- [SPOILER](https://wahyu9kdl.github.io/HTML/Spoiler.html)
+- [CSS ANIMATION](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/CssAnimasi.html)
+- [Expanding Cards Github](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Expanding%20Cards%20Github.html)
+- [ANIMATION FADE](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/FADE.html)
+- [ANIMATION GERHANA](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/GERHANA.html)
+- [GENERATOR COLOR](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Generator-Color.html)
+- [HOVERBOARD](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Hoverboard.html)
+- [NAVI ANIMATION](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/NAVI-Animation.html)
+- [NAVIGATION](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Navigation.html)
+- [RGB COLOR](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/RGB-COLOR.html)
+- [SHOLAWAT](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Sholawat.html)
+- [TEXT ANIMASI](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/TEXT.html)
+- [ANIMATION](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/index.html)
+- [AWFANSPAGE](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/FACEBOOK/Awfanspage.html)
+- [MIKROVER HOSTING ](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/HOSTING.html)
+- [MIKROTIK DNS](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/Mikrotik-DNS.html)
+- [MIKROVER PING](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/Ping.html)
+- [Awspotify](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/PAGE/AWSPOTIFY.html)
+- [Awmedia](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/PAGE/Awmedia.html)
+- [I-Frame](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/PAGE/IFRAME.html)
+- [Protector](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/PAGE/protector.html)
+- [Twitter](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/TWITTER/update.html)
+- [Jquery Youtube Loop](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/YOUTUBE/jyl.html)
+- [Youtube Loop](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/YOUTUBE/loop.html)
+- [MOVIE](https://wahyu9kdl.github.io/DASHBOARD/TEMPLATES/Movie.html)
+- [i-Frame Generator](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/iframe-generator.html)
+- [Downloafer](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/DOWNLODER/index.html)
+- [Attack](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/AUTO%20VISITOR/Attack.html)
+- [Auto Visitor](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/AUTO%20VISITOR/index.html)
+- [404](https://wahyu9kdl.github.io/404.html)
+- [FAQ](https://wahyu9kdl.github.io/faq.html)
+
+
 
 ## 🔥 GitHub Readme Streak Stats
 
