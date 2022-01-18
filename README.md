@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm wahyu9kdl</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
+
 - 👋 Hi, I’m <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwahyu9kdl">@wahyu9kdl</a>
 - 👀 I'm Developer , I'm Creator 
-- 🌱 about.me/ahmadwahyudi ( https://about.me/ahmadwahyudi )
+- 🌱 [about.me](https://about.me/ahmadwahyudi)
 - 📫 Desainner Situs website information and academic
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=blod&color=%2336BCF7&size=30&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40wahyu9kdl+;%F0%9F%98%8A+I'm+Developer+and+Desaigner;%F0%9F%8C%B1+about.me%2Fahmadwahyudi+(+https%3A%2F%2Fabout.me%2Fahmadwahyudi+)+-+%F0%9F%93%AB+Desainner+Situs+website+information+and+academic)](https://git.io/typing-svg)
@@ -43,7 +44,7 @@
 - [Youtube Loop](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/YOUTUBE/loop.html)
 - [MOVIE](https://wahyu9kdl.github.io/DASHBOARD/TEMPLATES/Movie.html)
 - [i-Frame Generator](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/iframe-generator.html)
-- [Downloafer](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/DOWNLODER/index.html)
+- [Downloader](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/DOWNLODER/index.html)
 - [Attack](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/AUTO%20VISITOR/Attack.html)
 - [Auto Visitor](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/AUTO%20VISITOR/index.html)
 - [404](https://wahyu9kdl.github.io/404.html)
@@ -83,6 +84,7 @@
 <a href="https://wahyu9kdl.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="wahyu9kdl" height="30" width="40" /></a>
 <a href="https://m.youtube.com/channel/UC7CRa3nkxakAZx_aRsMwRyA/playlists" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aw youtube channel" height="30" width="40" /></a>
 <a href="https://open.spotify.com/show/4UoPUn3e0VhJ6MGOwdsrHV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://feedproxy.google.com/~r/blogspot/ghpgr/~3/vyr1fhc7dbi/informasi-cara-mendapatkan-ribuan.html" height="30" width="40" /></a>
+<a href="https://www.alhikmah.my.id"><img style="margin: 10px" src="https://raw.githubusercontent.com/wahyu9kdl/wahyu9kdl/main/logo.png " alt="Logo ALHIKMAH.MY.ID" height="30" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahyu9kdl" alt="wahyu9kdl" /></a> </p>
