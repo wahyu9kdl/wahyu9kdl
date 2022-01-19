@@ -21,6 +21,7 @@
 - [SPOILER](https://wahyu9kdl.github.io/HTML/Spoiler.html)
 - [CANVAS](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Canvas.html)
 - [CSS ANIMATION](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/CssAnimasi.html)
+- [CANVAS ANIMATION BACKGROUND](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/background.html)
 - [Expanding Cards Github](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Expanding%20Cards%20Github.html)
 - [ANIMATION FADE](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/FADE.html)
 - [ANIMATION GERHANA](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/GERHANA.html)
