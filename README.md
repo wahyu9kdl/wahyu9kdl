@@ -19,7 +19,7 @@
 - [ 𝐔𝐍𝐈𝐐𝐄𝐓𝐞𝐱𝐭 to Handwriting ](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/Handwriting.html)
 - [Page Coding](https://wahyu9kdl.github.io/HTML/Coding.html)
 - [SPOILER](https://wahyu9kdl.github.io/HTML/Spoiler.html)
-- [CANVAS](wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Canvas.html)
+- [CANVAS](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Canvas.html)
 - [CSS ANIMATION](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/CssAnimasi.html)
 - [Expanding Cards Github](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Expanding%20Cards%20Github.html)
 - [ANIMATION FADE](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/FADE.html)
