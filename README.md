@@ -19,6 +19,7 @@
 - [ 𝐔𝐍𝐈𝐐𝐄𝐓𝐞𝐱𝐭 to Handwriting ](https://wahyu9kdl.github.io/DASHBOARD/TOOLS/Handwriting.html)
 - [Page Coding](https://wahyu9kdl.github.io/HTML/Coding.html)
 - [SPOILER](https://wahyu9kdl.github.io/HTML/Spoiler.html)
+- [Neumorphism Clock](https://wahyu9kdl.github.io/HTML/Clock.html)
 - [CANVAS](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Canvas.html)
 - [CSS ANIMATION](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/CssAnimasi.html)
 - [CANVAS ANIMATION BACKGROUND](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/background.html)
