@@ -34,6 +34,7 @@
 - [TEXT ANIMASI](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/TEXT.html)
 - [ANIMATION](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/index.html)
 - [AWFANSPAGE](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/FACEBOOK/Awfanspage.html)
+- [Pin Page (Catatan Kang Wahyu9kdl)](wahyu9kdl.github.io/DASHBOARD/PROJECTS/PAGE/PIN.html)
 - [CATUR](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/CATUR.html)
 - [MINESWEEPER](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Minesweeper.html)
 - [MIKROVER HOSTING ](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/HOSTING.html)
