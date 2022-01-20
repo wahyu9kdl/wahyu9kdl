@@ -35,6 +35,7 @@
 - [ANIMATION](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/index.html)
 - [AWFANSPAGE](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/FACEBOOK/Awfanspage.html)
 - [CATUR](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/CATUR.html)
+- [MINESWEEPER](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Minesweeper.html)
 - [MIKROVER HOSTING ](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/HOSTING.html)
 - [MIKROTIK DNS](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/Mikrotik-DNS.html)
 - [MIKROVER PING](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/Ping.html)
