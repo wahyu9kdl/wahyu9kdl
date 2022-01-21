@@ -1,0 +1,22 @@
+{
+  "name": "@wahyu9kdl/wahyu9kdl",
+  "version": "1.0.1",
+  "description": "A simple npm package to demonstrate GitHub Package Registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahyu9kdl.git"
+  },
+  "author": "wahyu9kdl",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/wahyu9kdl/issues"
+  },
+  "homepage": "https://github.com/wahyu9kdl#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
+}
