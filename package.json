@@ -1,5 +1,7 @@
+> npm init --yes
+Wrote to /home/wahyu9kdl/package.json:
 {
-  "name": "@wahyu9kdl/wahyu9kdl",
+  "name": "wahyu9kdl",
   "version": "1.0.1",
   "description": "A simple npm package to demonstrate GitHub Package Registry",
   "main": "index.js",
@@ -11,12 +13,13 @@
     "url": "git+https://github.com/wahyu9kdl.git"
   },
   "author": "wahyu9kdl",
-  "license": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/wahyu9kdl/issues"
   },
-  "homepage": "https://github.com/wahyu9kdl#readme",
+  "homepage": "https://wahyu9kdl.github.io/wahyu9kdl",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   }
 }
+
