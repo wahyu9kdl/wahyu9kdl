@@ -10,7 +10,7 @@
 
 # FEATURED
 
-- [HOME PAGE](https://wahyu9kdl.github.io/wahyu9kdl)
+- [HOME PAGE](https://wahyu9kdl.github.io/wahyu9kdl/)
 - [PROFILE](https://wahyu9kdl.github.io)
 - [LOGIN](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwahyu9kdl)
 - [AW DEV](https://wahyu9kdl.github.io/AwDev.html)
