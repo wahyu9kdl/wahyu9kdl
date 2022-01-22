@@ -19,7 +19,7 @@ Wrote to /home/wahyu9kdl/package.json:
   },
   "homepage": "https://wahyu9kdl.github.io/wahyu9kdl",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry":"https://www.npmjs.com/org/wahyu9kdl"
   }
 }
 
