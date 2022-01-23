@@ -26,6 +26,7 @@
 - [Expanding Cards Github](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Expanding%20Cards%20Github.html)
 - [ANIMATION FADE](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/FADE.html)
 - [ANIMATION GERHANA](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/GERHANA.html)
+- [Newton's Css Cradle Animation](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Cradle.html)
 - [GENERATOR COLOR](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Generator-Color.html)
 - [HOVERBOARD](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Hoverboard.html)
 - [NAVI ANIMATION](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/NAVI-Animation.html)
