@@ -39,6 +39,7 @@
 - [CATUR](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/CATUR.html)
 - [MINESWEEPER](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Minesweeper.html)
 - [Puzzle Game](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/puzzle.html)
+- [Game Tic Tac Toe](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/TicTacToe.html)
 - [Game Flappy Bird](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Flappy.html)
 - [MIKROVER HOSTING ](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/HOSTING.html)
 - [MIKROTIK DNS](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/Mikrotik-DNS.html)
