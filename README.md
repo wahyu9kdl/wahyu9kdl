@@ -46,6 +46,7 @@
 - [Game Flappy Bird](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Flappy.html)
 - [Game Brick and Ball](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Ball.html)
 - [Game Tetris](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Tetris.html)
+- [Bubble Shooter Game](wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/Bubble.html)
 - [MIKROVER HOSTING ](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/HOSTING.html)
 - [MIKROTIK DNS](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/Mikrotik-DNS.html)
 - [MIKROVER PING](https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/MIKROVER/Ping.html)
