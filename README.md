@@ -20,15 +20,7 @@
 # Iframe 
 
 <script type="text/javascript">
-
-
-//<![CDATA[
-
-
-document.write('<iframe src="https://kata-h.blogspot.com" allowfullscreen="allowfullscreen" style="height: 800px; width: 100%;"></iframe>');
-
-
-//]]>
+//<![CDATA[document.write('<iframe src="https://kata-h.blogspot.com" allowfullscreen="allowfullscreen" style="height: 800px; width: 100%;"></iframe>');//]]>
 
 
 </script>
