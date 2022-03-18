@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>Ahmad Wahyudi activity</title>
+<link href="https://gitlab.com/wahyu9kdl.atom" rel="self" type="application/atom+xml"/>
+<link href="https://gitlab.com/wahyu9kdl" rel="alternate" type="text/html"/>
+<id>https://gitlab.com/wahyu9kdl</id>
+<updated>2022-03-18T11:55:23Z</updated>
+<entry>
+  <id>tag:gitlab.com,2022-03-18:1780911446</id>
+  <link href="https://gitlab.com/awdev1/wahyu9kdl-github-io/-/commit/78b18c1c97e6ecad4041e7d4ef43714659b523f3"/>
+  <title>Ahmad Wahyudi pushed to project branch main at AWDEV / wahyu9kdl-github-io</title>
+  <updated>2022-03-18T11:55:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a678b3eb40dd786f54386eac4b11347a?s=80&amp;d=identicon"/>
+  <author>
+    <username>wahyu9kdl</username>
+    <name>Ahmad Wahyudi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Ahmad Wahyudi</strong>
+<a href="https://gitlab.com/awdev1/wahyu9kdl-github-io/-/commit/78b18c1c97e6ecad4041e7d4ef43714659b523f3">(78b18c1c)</a>
+<i>
+at
+18 Mar 11:55
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Update .gitlab-ci.yml file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2022-03-18:1780778781</id>
+  <link href="https://gitlab.com/wahyu9kdl/wahyu9kdl"/>
+  <title>Ahmad Wahyudi imported project Ahmad Wahyudi / wahyu9kdl</title>
+  <updated>2022-03-18T10:52:41Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a678b3eb40dd786f54386eac4b11347a?s=80&amp;d=identicon"/>
+  <author>
+    <username>wahyu9kdl</username>
+    <name>Ahmad Wahyudi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2022-03-18:1780778383</id>
+  <link href="https://gitlab.com/wahyu9kdl/AWDEV"/>
+  <title>Ahmad Wahyudi imported project Ahmad Wahyudi / AWDEV</title>
+  <updated>2022-03-18T10:52:31Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a678b3eb40dd786f54386eac4b11347a?s=80&amp;d=identicon"/>
+  <author>
+    <username>wahyu9kdl</username>
+    <name>Ahmad Wahyudi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2022-03-18:1780777765</id>
+  <link href="https://gitlab.com/awdev1/wahyu9kdl-github-io"/>
+  <title>Ahmad Wahyudi imported project AWDEV / wahyu9kdl-github-io</title>
+  <updated>2022-03-18T10:52:16Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a678b3eb40dd786f54386eac4b11347a?s=80&amp;d=identicon"/>
+  <author>
+    <username>wahyu9kdl</username>
+    <name>Ahmad Wahyudi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2021-10-09:1503188938</id>
+  <link href="https://gitlab.com/wahyu9kdl/Templates"/>
+  <title>Ahmad Wahyudi imported project Ahmad Wahyudi / Templates</title>
+  <updated>2021-10-09T10:24:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a678b3eb40dd786f54386eac4b11347a?s=80&amp;d=identicon"/>
+  <author>
+    <username>wahyu9kdl</username>
+    <name>Ahmad Wahyudi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2021-10-09:1503188937</id>
+  <link href="https://gitlab.com/wahyu9kdl/partner"/>
+  <title>Ahmad Wahyudi imported project Ahmad Wahyudi / partner</title>
+  <updated>2021-10-09T10:24:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a678b3eb40dd786f54386eac4b11347a?s=80&amp;d=identicon"/>
+  <author>
+    <username>wahyu9kdl</username>
+    <name>Ahmad Wahyudi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2021-10-09:1503188936</id>
+  <link href="https://gitlab.com/wahyu9kdl/animation"/>
+  <title>Ahmad Wahyudi imported project Ahmad Wahyudi / animation</title>
+  <updated>2021-10-09T10:24:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a678b3eb40dd786f54386eac4b11347a?s=80&amp;d=identicon"/>
+  <author>
+    <username>wahyu9kdl</username>
+    <name>Ahmad Wahyudi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2021-10-09:1503188935</id>
+  <link href="https://gitlab.com/wahyu9kdl/AlquranQ"/>
+  <title>Ahmad Wahyudi imported project Ahmad Wahyudi / AlquranQ</title>
+  <updated>2021-10-09T10:24:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a678b3eb40dd786f54386eac4b11347a?s=80&amp;d=identicon"/>
+  <author>
+    <username>wahyu9kdl</username>
+    <name>Ahmad Wahyudi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2021-10-09:1503188934</id>
+  <link href="https://gitlab.com/wahyu9kdl/Aw-Creative"/>
+  <title>Ahmad Wahyudi imported project Ahmad Wahyudi / Aw-Creative</title>
+  <updated>2021-10-09T10:24:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a678b3eb40dd786f54386eac4b11347a?s=80&amp;d=identicon"/>
+  <author>
+    <username>wahyu9kdl</username>
+    <name>Ahmad Wahyudi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2021-10-09:1503188933</id>
+  <link href="https://gitlab.com/wahyu9kdl/Aw-APP"/>
+  <title>Ahmad Wahyudi imported project Ahmad Wahyudi / Aw-APP</title>
+  <updated>2021-10-09T10:24:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a678b3eb40dd786f54386eac4b11347a?s=80&amp;d=identicon"/>
+  <author>
+    <username>wahyu9kdl</username>
+    <name>Ahmad Wahyudi</name>
+    <email></email>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+</feed>
