@@ -1,0 +1,5 @@
+npm i @cloudflare/wrangler -g
+wrangler login
+wrangler generate my-app https://github.com/cloudflare/worker-template
+wrangler dev
+wrangler publish
